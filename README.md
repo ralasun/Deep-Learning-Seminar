@@ -55,4 +55,10 @@ Artificial Neural Network의 역사부터  Backpropagation의 동작원리까지
 1. Bidirectional Reccurrent Neural Network
 2. Exploding Gradient Problem
 3. Gradient Clipping
-4. Long SHort-term Memory Network
+4. Long Short-term Memory Network
+
+# 8th Seminar
+## Code Practice
+1. RNN
+2. LSTM
+3. introduction to word2vec
