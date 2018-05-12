@@ -39,4 +39,8 @@ Artificial Neural Network의 역사부터  Backpropagation의 동작원리까지
 - main source : Deep residual learning for image recognition, He, et al, 2016 
 
 # 5th Seminar
-## Convolutional Neural Network with MNIST dataset, AlexNet(simple variant), googleNet, Inceptionv3retraining
+## Code Practice 
+1. Convolutional Neural Network with MNIST dataset
+2. AlexNet(simple variant)
+3. googleNet
+4. Inceptionv3retraining
