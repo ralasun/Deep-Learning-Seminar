@@ -28,3 +28,12 @@ Artificial Neural Network의 역사부터  Backpropagation의 동작원리까지
   - parameter sharing
   - pooling layer
 3. Representative models of convolutional neural network 
+
+# 4th Seminar
+## AlexNet, GoogleNet, ResNEt
+1. AlexNet
+- main source : ImageNet Classification with Deep Convolutional Neural Networks, Krizhevsky et al, 2012
+2. GoogleNet
+- main source : Going Deeper with convolutions, Szegedy et al, 2014
+3. ResNet
+- main source : Deep residual learning for image recognition, He, et al, 2016 
