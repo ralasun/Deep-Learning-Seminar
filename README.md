@@ -49,3 +49,10 @@ Artificial Neural Network의 역사부터  Backpropagation의 동작원리까지
 ## Recurrent Neural Network
 1. Recurrent Neural Network
 2. Backpropagation Through Time
+
+# 7th Seminar
+## Bidirectional RNN, LSTM
+1. Bidirectional Reccurrent Neural Network
+2. Exploding Gradient Problem
+3. Gradient Clipping
+4. Long SHort-term Memory Network
