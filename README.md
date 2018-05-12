@@ -16,3 +16,15 @@ Artificial Neural Network의 역사부터  Backpropagation의 동작원리까지
 7. Regularization
 8. Other ways of Optimizer
 9. Practice - Classification of Mnist using MLP model
+
+# 3rd Seminar
+## Softmax Layer and Convolutional Neural Networks
+1. Softmax layer
+2. Basic of Convolutional Neural Network
+  - Local Connectivity
+  - Receptive Field
+  - Spatial Arrangement
+  - About zero-padding
+  - parameter sharing
+  - pooling layer
+3. Representative models of convolutional neural network 
