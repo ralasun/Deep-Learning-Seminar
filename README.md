@@ -30,7 +30,7 @@ Artificial Neural Network의 역사부터  Backpropagation의 동작원리까지
 3. Representative models of convolutional neural network 
 
 # 4th Seminar
-## AlexNet, GoogleNet, ResNEt
+## AlexNet, GoogleNet, ResNet
 1. AlexNet
 - main source : ImageNet Classification with Deep Convolutional Neural Networks, Krizhevsky et al, 2012
 2. GoogleNet
