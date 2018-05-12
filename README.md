@@ -37,3 +37,6 @@ Artificial Neural Network의 역사부터  Backpropagation의 동작원리까지
 - main source : Going Deeper with convolutions, Szegedy et al, 2014
 3. ResNet
 - main source : Deep residual learning for image recognition, He, et al, 2016 
+
+# 5th Seminar
+## Convolutional Neural Network with MNIST dataset, AlexNet(simple variant), googleNet, Inceptionv3retraining
