@@ -44,3 +44,8 @@ Artificial Neural Network의 역사부터  Backpropagation의 동작원리까지
 2. AlexNet(simple variant)
 3. googleNet
 4. Inceptionv3retraining
+
+# 6th Seminar
+## Recurrent Neural Network
+1. Recurrent Neural Network
+2. Backpropagation Through Time
